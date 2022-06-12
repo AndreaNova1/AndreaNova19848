@@ -36,7 +36,7 @@
     round-lg shadow-lg" >
         <h1 class="text-3xl text-center font-bold">INICAR SESION</h1>
         <div class="ima" >
-            <img class="m offset-2" src="https://o.remove.bg/downloads/64a31778-bfd4-4055-962b-61325ed85b54/kisspng-business-service-knowledge-professional-employee-cartoon-5b3f2d761b3fa6.2441642515308670621116-removebg-preview.png">
+            <img class="m offset-2" src="https://thumbs.dreamstime.com/b/seminario-web-de-videoconferencia-el-concepto-reuniones-en-l%C3%ADnea-vector-estilo-plano-dibujos-animados-ilustraci%C3%B3n-pantalla-210767271.jpg">
         </div>
 
         <form class="mt-10 "  method="POST" action="">
