@@ -32,3 +32,4 @@ Route::post('/', [SessionsController::class, 'store'])->name('login.store');
 Route::get('/logout', [SessionsController::class, 'destroy'])
     ->middleware('auth')
     ->name('login.destroy');
+

@@ -6,7 +6,7 @@
     <style>
         body {
             height: 700px;
-            background-image: url("https://p4.wallpaperbetter.com/wallpaper/40/461/105/video-game-love-money-rock-n-roll-original-anime-school-wallpaper-preview.jpg");
+            background-image: url("https://blog.ssd.com.py/wp-content/uploads/2022/04/servicio-al-cliente-estrategia-de-servicio-al-cliente-ssd-paraguay-jpg-2.jpg");
             background-size: cover;
             background-repeat:no-repeat;
             background-position: center center;
@@ -36,7 +36,7 @@
     round-lg shadow-lg" >
         <h1 class="text-3xl text-center font-bold">INICAR SESION</h1>
         <div class="ima" >
-            <img class="m offset-2" src=" https://sat02pap001files.storage.live.com/y4m9YQNFz3Bw23yN7jaX4SVGvKnWX6B656RnehoyWQOdmeOXvxZGe4UY1E4cIjF4WVjOjcoai1MQMIoCBgh6nujA_-fRavx3C9WPrbGM5S9bNrmCMPVKB08d2qcR0S_eP-xz9OD8252cr6lEjr0aRbRbrxS5y_P5-G1sNh2BVJ3_z6oqbPrdBIZUhiwO4A_KVrj?width=1018&height=832&cropmode=none">
+            <img class="m offset-2" src="https://o.remove.bg/downloads/64a31778-bfd4-4055-962b-61325ed85b54/kisspng-business-service-knowledge-professional-employee-cartoon-5b3f2d761b3fa6.2441642515308670621116-removebg-preview.png">
         </div>
 
         <form class="mt-10 "  method="POST" action="">
